@@ -1,1 +1,1 @@
-# Plant-Leaf-Disease-Detection-main
+# plant_disease_detection
